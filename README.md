@@ -1,6 +1,5 @@
 # Hi there 👋, My name is Joclelson Rodrigues
 
-<img width="100%" src="https://drive.google.com/drive/folders/1XFzEY7jiJm9lsTDW2WbulAzeYK5KB30m" alt="my banner">
 
 Desenvolvedor Front end, formado em análise e desenvolvimento de sistemas e T.I a mais de 10 anos.
 
