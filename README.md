@@ -29,3 +29,7 @@ Desenvolvedor Front-end, formado em análise e desenvolvimento de sistemas e T.I
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joclelsonr&count_private=true&theme=radical)](https://github.com/joclelsonr/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula)](https://github.com/joclelsonr/github-readme-stats)
+
+
+
+![snake gif](https://github.com/Joclelsonr/Joclelsonr/blob/output/github-contribution-grid-snake.svg)
