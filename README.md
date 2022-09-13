@@ -2,18 +2,22 @@
 # Olá 👋, Meu nome e Joclelson Rodrigues
 
 
-Desenvolvedor Front-end, formado em análise e desenvolvimento de sistemas e T.I a mais de 10 anos.
+Desenvolvedor Full Stack, formado em análise e desenvolvimento de sistemas e T.I a mais de 10 anos.
 
 ## 💫 Um pouco mais sobre mim
-<p>👨‍💻 Atualmente estou estagiando na JR Entreterimento</p>
 <p>📘 Atualmente estou estudando Back End</p>
 <p>📫 Como chegar até mim? jocleelson.159@hotmail.com</p>
 
 ## 💻 Habilidades
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,styledcomponents,bootstrap,cs,nodejs,git)](https://skillicons.dev)
+
+### 👨🏻‍💻 Front-end 📱
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,styledcomponents,bootstrap,materialui,jest)](https://skillicons.dev)
+
+### 🗄️ Back-end 🔙🔚
+[![My Skills](https://skillicons.dev/icons?i=ts,cs,nodejs,express,mysql,aws,firebase,git)](https://skillicons.dev)
 
 ## 💻 Ferramentas
-[![My Skills](https://skillicons.dev/icons?i=vscode,netlify,github,figma,ps,discord)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,netlify,heroku,github,figma,ps,discord)](https://skillicons.dev)
 
 ## 👥 Conecte-se comigo
 <p>
