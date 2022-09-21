@@ -1,11 +1,11 @@
 ![github-header-image (4)](https://user-images.githubusercontent.com/104178622/184713903-2800febb-e6ac-401d-a6ba-c786d92d25a2.png)
-# Olá 👋, Meu nome e Joclelson Rodrigues
+# Olá, eu sou Joclelson Rodrigues 👋
 
 
 Desenvolvedor Full Stack, formado em análise e desenvolvimento de sistemas e T.I a mais de 10 anos.
 
-## 💫 Um pouco mais sobre mim
-<p>📘 Atualmente estou estudando Back End</p>
+## 🚀 Um pouco mais sobre mim
+<p>🧠 Atualmente estou estudando Back End</p>
 <p>📫 Como chegar até mim? jocleelson.159@hotmail.com</p>
 
 ## 💻 Habilidades
@@ -16,10 +16,10 @@ Desenvolvedor Full Stack, formado em análise e desenvolvimento de sistemas e T.
 ### 🗄️ Back-end 🔙🔚
 [![My Skills](https://skillicons.dev/icons?i=ts,cs,nodejs,express,mysql,aws,firebase,git)](https://skillicons.dev)
 
-## 💻 Ferramentas
+## 🛠 Ferramentas
 [![My Skills](https://skillicons.dev/icons?i=vscode,netlify,heroku,github,figma,ps,discord)](https://skillicons.dev)
 
-## 👥 Conecte-se comigo
+## 🔗 Conecte-se comigo
 <p>
 <a href="https://joclelsonr.github.io/landingpage/"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 <a href="https://www.linkedin.com/in/joclelson-rodrigues-00327622b/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
