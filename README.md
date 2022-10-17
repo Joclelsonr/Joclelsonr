@@ -5,7 +5,7 @@
 Desenvolvedor Full Stack, formado em análise e desenvolvimento de sistemas e T.I a mais de 10 anos.
 
 ## 🚀 Um pouco mais sobre mim
-<p>🧠 Atualmente estou estudando Back End</p>
+<p>🧠 Atualmente estou estudando DevOps</p>
 <p>📫 Como chegar até mim? jocleelson.159@hotmail.com</p>
 
 ## 💻 Habilidades
