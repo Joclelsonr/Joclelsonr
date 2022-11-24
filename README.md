@@ -1,5 +1,5 @@
 ![github-header-image (4)](https://user-images.githubusercontent.com/104178622/184713903-2800febb-e6ac-401d-a6ba-c786d92d25a2.png)
-# Olá, eu sou Joclelson Rodrigues 👋
+# Olá, sou Joclelson Rodrigues 👋
 
 
 Desenvolvedor Full Stack, formado em análise e desenvolvimento de sistemas e T.I a mais de 10 anos.
@@ -14,10 +14,10 @@ Desenvolvedor Full Stack, formado em análise e desenvolvimento de sistemas e T.
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,styledcomponents,bootstrap,materialui,jest)](https://skillicons.dev)
 
 ### 🗄️ Back-end 🔙🔚
-[![My Skills](https://skillicons.dev/icons?i=ts,cs,nodejs,express,mysql,aws,firebase,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,express,graphql,prisma,mysql,aws,docker,kubernetes,firebase,cs)](https://skillicons.dev)
 
 ## 🛠 Ferramentas
-[![My Skills](https://skillicons.dev/icons?i=vscode,netlify,heroku,github,figma,ps,discord)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,netlify,heroku,github,bash,figma,ps,discord,linux)](https://skillicons.dev)
 
 ## 🔗 Conecte-se comigo
 <p>
@@ -30,7 +30,7 @@ Desenvolvedor Full Stack, formado em análise e desenvolvimento de sistemas e T.
 
 ## 📊 Github Status
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joclelsonr&count_private=true&theme=radical)](https://github.com/joclelsonr/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joclelsonr&count_private=true&theme=highcontrast)](https://github.com/joclelsonr/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joclelsonr&layout=compact&theme=dracula)](https://github.com/joclelsonr/github-readme-stats)
 
