@@ -1,8 +1,11 @@
-![github-header-image (4)](https://user-images.githubusercontent.com/104178622/184713903-2800febb-e6ac-401d-a6ba-c786d92d25a2.png)
+<div align='center'>
+  
+![github-header-image](https://user-images.githubusercontent.com/104178622/204110017-90b6350f-7b76-4817-a6f3-d58795ed6481.png)
 # Olá, sou Joclelson Rodrigues 👋
 
-
 Desenvolvedor Full Stack, formado em análise e desenvolvimento de sistemas e T.I a mais de 10 anos.
+  
+</div>
 
 ## 🚀 Um pouco mais sobre mim
 <p>🧠 Atualmente estou estudando DevOps</p>
