@@ -47,6 +47,8 @@ Desenvolvedor Full Stack, formado em análise e desenvolvimento de sistemas e T.
 
 <!-- ![Status](./profile-3d-contrib/profile-night-rainbow.svg) -->
 
+![](./profile-3d-contrib/profile-green-animate.svg)
+
 <div align='center'>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joclelsonr&count_private=true&theme=highcontrast)](https://github.com/joclelsonr/github-readme-stats)
