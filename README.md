@@ -39,6 +39,9 @@ Desenvolvedor Full Stack, formado em análise e desenvolvimento de sistemas e T.
 
 ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
 
-[![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joclelsonr&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joclelsonr&theme=dracula&utcOffset=-3)]
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joclelsonr&count_private=true&theme=highcontrast)](https://github.com/joclelsonr/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joclelsonr&layout=compact&theme=dracula)](https://github.com/joclelsonr/github-readme-stats)
+<!-- (https://github.com/vn7n24fzkq/github-profile-summary-cards) -->
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joclelsonr&count_private=true&theme=highcontrast)](https://github.com/joclelsonr/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joclelsonr&layout=compact&theme=highcontrast)](https://github.com/joclelsonr/github-readme-stats)
