@@ -1,4 +1,4 @@
-![](./profile-3d-contrib/profile-green-animate.svg)
+[![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joclelsonr&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joclelsonrtheme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 <div align='center'>
   
