@@ -45,7 +45,7 @@ Desenvolvedor Full Stack, formado em análise e desenvolvimento de sistemas e T.
 
 ## 📊 Github Status
 
-[![Status](./profile-3d-contrib/profile-night-rainbow.svg)](https://github.com/joclelsonr/github-readme-stats)
+![Status](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <div align='center'>
 
