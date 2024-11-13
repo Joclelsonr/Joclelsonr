@@ -39,7 +39,7 @@ Desenvolvedor Full Stack, formado em análise e desenvolvimento de sistemas e T.
 
 ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
 
-[![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joclelsonr&theme=dracula&utcOffset=-3)]
+<!-- ![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joclelsonr&theme=dracula&utcOffset=-3) -->
 
 <!-- (https://github.com/vn7n24fzkq/github-profile-summary-cards) -->
 
