@@ -1,6 +1,5 @@
 <div align='center'>
-  
-![github-header-image](https://user-images.githubusercontent.com/104178622/204110017-90b6350f-7b76-4817-a6f3-d58795ed6481.png)
+<!-- ![github-header-image](https://user-images.githubusercontent.com/104178622/204110017-90b6350f-7b76-4817-a6f3-d58795ed6481.png) -->
 # Joclelson Rodrigues 👋
 
 Desenvolvedor Full Stack, formado em análise e desenvolvimento de sistemas e T.I a mais de 10 anos.
@@ -39,9 +38,9 @@ Desenvolvedor Full Stack, formado em análise e desenvolvimento de sistemas e T.
 
 ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
 
-<!-- ![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joclelsonr&theme=dracula&utcOffset=-3) -->
-
-<!-- (https://github.com/vn7n24fzkq/github-profile-summary-cards) -->
+<div style="display: flex; flex-direction: row; justify-content: space-between;">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joclelsonr&count_private=true&theme=highcontrast)](https://github.com/joclelsonr/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joclelsonr&layout=compact&theme=highcontrast)](https://github.com/joclelsonr/github-readme-stats)
+
+</div>
